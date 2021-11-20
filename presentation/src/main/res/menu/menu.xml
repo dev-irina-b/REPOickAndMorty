@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/characters"
+        android:title="@string/characters"
+        android:icon="@drawable/baseline_person_white_24"/>
+
+    <item
+        android:id="@+id/locations"
+        android:title="@string/locations"
+        android:icon="@drawable/baseline_location_on_white_24"/>
+
+    <item
+        android:id="@+id/episodes"
+        android:title="@string/episodes"
+        android:icon="@drawable/baseline_video_white_24"/>
+
+</menu>
