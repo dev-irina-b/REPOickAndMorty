@@ -14,4 +14,5 @@ interface IEpisodeRepository {
     suspend fun getEpisode(id: Int): Episode
 
     suspend fun getMultipleCharacters( arrayIds: List<Int>): List<Character>
+    //
 }
